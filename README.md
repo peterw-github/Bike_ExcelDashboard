@@ -39,7 +39,7 @@ https://github.com/peterw-github/Bike_ExcelDashboard/blob/main/Dashboard.xlsm
 
 ## Optional: Indepth Walkthrough:
 
-A more indepth walkthrough of the project,that covers the data cleaning, and dashboard element justification, can be found here: <br>
+A more indepth walkthrough of the project, that covers the data cleaning process, and justification of dashboard elements, can be found here: <br>
 https://github.com/peterw-github/Bike_ExcelDashboard/blob/main/Explanation.pdf
 
 
